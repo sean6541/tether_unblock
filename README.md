@@ -8,11 +8,11 @@ provider.
 
 Stable release:
 1. Dowload latest tether_unblock.zip from releases page
-   https://github.com/evdenis/tether_unblock/releases
+   https://github.com/sean6541/tether_unblock/releases
 2. MagiskManager -> Modules + Downloads/tether_unblock.zip -> Reboot
 
 Master branch:
-1. git clone https://github.com/evdenis/tether_unblock
+1. git clone https://github.com/sean6541/tether_unblock
 2. cd tether_unblock
 3. make install
 
